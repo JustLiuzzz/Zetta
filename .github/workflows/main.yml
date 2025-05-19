@@ -2,4 +2,4 @@
         uses: ihiroky/extract-action@v1
         with:
           file_path: bot.zip
-          extract_dir: 
+          extract_dir: '.'
